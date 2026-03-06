@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s5224970/Desktop/Week_1_class/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s5224970/Desktop/Week_1_class/Content/BP_BALL.uasset",
+				"C:/Users/s5224970/Desktop/Week_1_class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/s5224970/Desktop/Week_1_class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/s5224970/Desktop/Week_1_class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/H7/9CTYTTEI1TZF3KBE0XZV15.uasset"
+			]
+		}
+	]
+}
